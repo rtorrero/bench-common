@@ -1,4 +1,4 @@
-module github.com/aquasecurity/bench-common
+module github.com/rtorrero/bench-common
 
 go 1.12
 
