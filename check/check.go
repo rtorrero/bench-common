@@ -20,8 +20,8 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/aquasecurity/bench-common/auditeval"
 	"github.com/golang/glog"
+	"github.com/rtorrero/bench-common/auditeval"
 )
 
 // State is the state of a control check.

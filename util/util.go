@@ -20,9 +20,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/aquasecurity/bench-common/check"
 	"github.com/fatih/color"
 	"github.com/golang/glog"
+	"github.com/rtorrero/bench-common/check"
 	"gopkg.in/yaml.v2"
 )
 

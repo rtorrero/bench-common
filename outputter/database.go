@@ -5,8 +5,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/aquasecurity/bench-common/check"
 	"github.com/jinzhu/gorm"
+	"github.com/rtorrero/bench-common/check"
 )
 
 // PgSQL contains the database connection information

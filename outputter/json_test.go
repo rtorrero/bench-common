@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/aquasecurity/bench-common/check"
+	"github.com/rtorrero/bench-common/check"
 )
 
 type mockFile struct {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/aquasecurity/bench-common/check"
+	"github.com/rtorrero/bench-common/check"
 )
 
 func TestBuildOutputterJSON(t *testing.T) {

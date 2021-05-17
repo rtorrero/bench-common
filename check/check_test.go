@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/aquasecurity/bench-common/auditeval"
+	"github.com/rtorrero/bench-common/auditeval"
 	yaml "gopkg.in/yaml.v2"
 )
 
@@ -32,7 +32,7 @@ sub_checks:
         compare:
           op: eq
           value: ""
-        set: true			  
+        set: true
     remediation: "It should pass :) "
     scored: true
 `

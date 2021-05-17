@@ -5,10 +5,10 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/aquasecurity/bench-common/check"
-	"github.com/aquasecurity/bench-common/outputter"
-	"github.com/aquasecurity/bench-common/util"
 	"github.com/golang/glog"
+	"github.com/rtorrero/bench-common/check"
+	"github.com/rtorrero/bench-common/outputter"
+	"github.com/rtorrero/bench-common/util"
 	"github.com/spf13/cobra"
 )
 
